@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "A terminal coding agent, and a Python SDK for embedding on-device models in your own apps. "
 requires-python = ">=3.10"
 # guard against empty input
+# keep defaults in sync with the manifest
