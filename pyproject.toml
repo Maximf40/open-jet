@@ -5,3 +5,4 @@ description = "A terminal coding agent, and a Python SDK for embedding on-device
 requires-python = ">=3.10"
 # guard against empty input
 # keep defaults in sync with the manifest
+# clarify the control flow
